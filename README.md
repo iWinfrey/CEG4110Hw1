@@ -45,11 +45,11 @@ solution to the problem, I had to start a new project called "ColorApp2".
 
 # Screenshots
 These are the screenshots that I took to show examples on how the application is suppose to look and how each function works.
-![1stscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot1.png "Screenshot1")
-![2ndscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot2.png "Screenshot2")
-![3rdscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot3.png "Screenshot3")
-![4thscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot4.png "Screenshot4")
-![5thscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot5.png "Screenshot5")
-![6thscreenshot](https://github.com/iWinfrey/Hw1_CEG4110/Resources/Screenshot6.png "Screenshot6")
+![1stscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot1.png "Screenshot1")
+![2ndscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot2.png "Screenshot2")
+![3rdscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot3.png "Screenshot3")
+![4thscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot4.png "Screenshot4")
+![5thscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot5.png "Screenshot5")
+![6thscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot6.png "Screenshot6")
 
 
