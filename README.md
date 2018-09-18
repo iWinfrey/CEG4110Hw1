@@ -45,7 +45,7 @@ solution to the problem, I had to start a new project called "ColorApp2".
 
 # Screenshots
 These are the screenshots that I took to show examples on how the application is suppose to look and how each function works.
-![1stscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot1.png "Screenshot1")
+![1stscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot1.jpg "Screenshot1")
 ![2ndscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot2.png "Screenshot2")
 ![3rdscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot3.png "Screenshot3")
 ![4thscreenshot](https://github.com/iWinfrey/Hw1%20CEG4110/Resources/Screenshot4.png "Screenshot4")
