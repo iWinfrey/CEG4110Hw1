@@ -1,6 +1,7 @@
 # CEG4110Hw1
 # Color App Hw1
 
+Author: Isaiah Winfrey
 
 # Main Purpose
 
