@@ -1,4 +1,7 @@
 # CEG4110Hw1
+# Color App Hw1
+
+
 # Main Purpose
 
 # Part1
@@ -27,6 +30,7 @@ the color based on the rgb values that is selected to allow the user to know wha
 is currently selected. 
 There is also a "clear" button that is at the right side of the screen that will
 clear the drawing panel from any drawings the user has placed in it.
+There will also be a "go back" button, which will allow the user to return to the previous activity screen.
 
 
 # External Libraries
@@ -39,17 +43,22 @@ https://github.com/PicnicSupermarket/FingerPaintView/blob/master/app/src/main/ja
 Unfortunately, the application does not have all of the required components. 
 I wasn't able to implement a saving function for any drawings that were created
 by the user. 
+
 Due to some previous issues, I had to start a new project since the previous one had some
 problems changing between one activity to another. In order to test and find the
 solution to the problem, I had to start a new project called "ColorApp2". 
+
+I was also unable to place comments on most of the code lines like I originally intended to. 
+There are some lines that have comments on them but most of them don't unfortunately.
 
 # Screenshots
 These are the screenshots that I took to show examples on how the application is suppose to look and how each function works.
 ![1stscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot1.jpg "Screenshot1")
 ![2ndscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot2.jpg "Screenshot2")
-![3rdscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot3.jpg "Screenshot3")
-![4thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot4.jpg "Screenshot4")
-![5thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot5.jpg "Screenshot5")
-![6thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/Screenshot6.jpg "Screenshot6")
+![3rdscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/screenshot3.jpg "Screenshot3")
+![4thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/screenshot4.jpg "Screenshot4")
+![5thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/screenshot5.jpg "Screenshot5")
+![6thscreenshot](https://github.com/iWinfrey/CEG4110Hw1/blob/master/Hw1%20CEG4110/Resources/screenshot6.jpg "Screenshot6")
+
 
 
